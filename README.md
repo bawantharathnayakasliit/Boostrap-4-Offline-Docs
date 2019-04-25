@@ -2,7 +2,7 @@
 #### Bootstrap 4.1.3 offline documentation
 Please dont forget to star this project it if you find it helpful
 
-Just download the unzip and click on index.html. 
+Just download the unzip and click on Home.html. 
 Viola! Happy Coding !!!
 
 Thank you.
